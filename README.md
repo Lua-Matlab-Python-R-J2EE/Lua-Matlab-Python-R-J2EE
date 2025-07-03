@@ -3,6 +3,9 @@
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
   Learned the basics of GitHub Actions, including how to automate workflows directly from your repository using YAML configuration files.
 
+- [Test with Actions 2](https://github.com/Lua-Matlab-Python-R-J2EE/skills-test-with-actions2/tree/ci)  
+  Practiced configuring and running advanced CI workflows using GitHub Actions, focusing on automated testing and continuous integration best practices.
+
 - [Your First Extension for GitHub Copilot](https://github.com/Lua-Matlab-Python-R-J2EE/skills-your-first-extension-for-github-copilot)  
   Built and published a custom extension for GitHub Copilot, extending its coding capabilities to fit specific development needs.
 
