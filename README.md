@@ -1,3 +1,12 @@
+## 🏆 Completed Projects
+
+- [DCE-MRI Tool in Matlab](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
+  General utility functions written in MATLAB as part of a software toolkit for analyzing dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
+  
+- [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
+  Comparison of ten predictive statistical modeles for estimating lean body mass with dual-energy X-ray absorptiometry (DXA) in older patients. 
+
+
 ## 🏆 Completed GitHub Skills
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
