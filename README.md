@@ -6,6 +6,9 @@
 - [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
   Comparison of ten predictive statistical modeles for estimating lean body mass with dual-energy X-ray absorptiometry (DXA) in older patients. 
 
+- [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
+  A comprehensive expense management application built with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
+
 
 ## 🏆 Completed GitHub Skills
 
