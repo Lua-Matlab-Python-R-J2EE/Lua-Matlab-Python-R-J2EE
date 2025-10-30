@@ -9,10 +9,10 @@
 - [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
   A comprehensive expense management application built with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
 
-- [EDA-Hospitality-Domain]()  
+- [EDA-Hospitality-Domain](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Hospitality-Domain)  
   Data analysis for an imaginary hotel chain to uncover insights and recommend strategies for growth.
 
-- [EDA-Banking-Domain]()  
+- [EDA-Banking-Domain](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 customer records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
 
 ## 🏆 Completed GitHub Skills
