@@ -1,10 +1,10 @@
 ## 🏆 Completed Projects
 
 - [DCE-MRI Tool in Matlab](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
-  General utility functions written in MATLAB as part of a software toolkit for analyzing dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
+  General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
   
 - [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
-  Comparison of ten predictive statistical modeles for estimating lean body mass with dual-energy X-ray absorptiometry (DXA) in older patients. 
+  Comparison of ten predictive statistical models for estimating lean body mass against dual-energy X-ray absorptiometry (DXA) in older patients using correlation, Bland-Altman plots, and hypothesis testing.
 
 - [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
   A comprehensive expense management application built with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
