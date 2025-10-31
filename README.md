@@ -15,6 +15,10 @@
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 customer records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
 
+- [Movies Project in SQL](https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference)  
+  A comprehensive SQL reference guide with practical examples covering fundamental to advanced SQL queries. All examples use a movies database schema for real-world learning.
+
+
 ## 🏆 Completed GitHub Skills
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
