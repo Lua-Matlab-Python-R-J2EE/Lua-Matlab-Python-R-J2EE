@@ -1,6 +1,6 @@
 ## 🏆 Completed Projects
 
-- [DCE-MRI Tool in Matlab](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
+- [DCE-MRI Tool in MATLAB](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
   General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
   
 - [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
