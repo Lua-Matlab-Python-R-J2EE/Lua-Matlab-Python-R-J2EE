@@ -18,7 +18,7 @@
 - [Movies Project in SQL](https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference)  
   A comprehensive SQL reference guide with practical examples covering fundamental to advanced SQL queries. All examples use a movies database schema for real-world learning.
   
-- [Health Insurance Premium Prediction]([https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction))  
+- [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)  
   A machine‑learning (ML) powered Streamlit web application that predicts annual health insurance premiums based on demographic, lifestyle, and medical risk factors. The project demonstrates a complete ML lifecycle, from data cleaning, feature engineering and model training to production‑grade deployment using Streamlit Cloud.
 
 
