@@ -1,7 +1,7 @@
 # My Portfolio
 
 <details>
-<summary>Completed Projects and GitHub Skills</summary>summary
+<summary>Completed Projects and GitHub Skills</summary>
   
 ## 🏆 Completed Projects
 
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary>CV</summary>summary
+<summary>CV</summary>
 
 ### 💼 SKILLS
 
