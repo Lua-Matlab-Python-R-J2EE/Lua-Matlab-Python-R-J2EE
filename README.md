@@ -131,6 +131,28 @@
 #### Research Associate in MRI
 **Dec 2013–Sep 2014 | Newcastle University**
 - Developed a MATLAB-based toolkit for dynamic contrast-enhanced MRI (DCE-MRI) data analysis from human subjects, including data cleaning workflows, EDA, image segmentation, and mathematical modeling for time-series processing and signal conversion.
-- Created scripts to clean, preprocess, and analyze time-series curves
+- Created scripts to clean, preprocess, and analyze time-series curves with statistical summaries and visualizations, enabling robust quantitative analysis.
+- Created user manual for non-experts and assembled a team to present a business idea at a biotech competitions.
+
+#### Research Associate in PET Oncology Studies
+**Aug 2011–Nov 2013 | King’s College London**
+- Performed data quality assessment and cleaning on 3-hr dynamic PET data in lymphoma patients, segmented tumor regions based on radiologists' reports, conducted EDA to identify patterns, and anonymized data for blinded clinician quality assessment.
+- Developed methods that shortened acquisition protocols from 60 min to 4 and 12 min to estimate bone metabolic flux and blood perfusion, and a methodology to spatially align histology and PET images with millimetre accuracy.
+- Completed a commercialization and IP course, developed a business plan, and pitched it at multiple competitions.
+
+#### Honorary Business Consultant
+**Nov 2006–Nov 2014 | New Horizon Systems**
+- Assessed the company’s affordability to buy a commercial property.
+- Identified the most profitable channel of sale and recommended the development of a user-friendly website.
+- Analysed workload versus resources and recommended recruitment of an administrative apprentice.
+
+#### Software Engineer
+**Jan 2005–May 2006 | Siemens Information Systems Ltd**
+- Developed front/back-end modules for proof-of-concept projects using J2EE/Oracle/XML.
+- Analyzed bug patterns and system logs to identify root causes, fixed bugs for international clients, and developed/implemented test cases using automated tools.
+
+#### Software Trainee
+**Jan 2004–Jun 2004 | Perot Systems**
+- Developed a bug tracking software using J2EE (Java, JSP, HTML), SQL and MS Access.
 
 </details>
