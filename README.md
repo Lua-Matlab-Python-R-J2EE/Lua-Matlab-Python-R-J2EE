@@ -1,3 +1,8 @@
+# My Portfolio
+
+<details>
+<summary>Completed Projects and GitHub Skills</summary>summary
+  
 ## 🏆 Completed Projects
 
 - [DCE-MRI Tool in MATLAB](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
@@ -66,3 +71,10 @@
 
 - [Introduction to Repository Management](https://github.com/Lua-Matlab-Python-R-J2EE/skills-introduction-to-repository-management)  
   Gained foundational knowledge in managing repository settings, access controls, and collaboration features for effective project organization.
+
+</details>
+
+<details>
+<summary>CV</summary>summary
+  
+</details>
