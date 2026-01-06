@@ -26,7 +26,7 @@
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)  
   A machine‑learning (ML) powered Streamlit web application that predicts annual health insurance premiums based on demographic, lifestyle, and medical risk factors solving a regression problem (using 50,000 records). The project demonstrates a complete ML lifecycle, from data cleaning, feature engineering and model training to production‑grade deployment using Streamlit Cloud.
 
-
+---
 
 ## 🏆 Completed GitHub Skills
 
@@ -154,5 +154,5 @@
 #### Software Trainee
 **Jan 2004–Jun 2004 | Perot Systems**
 - Developed a bug tracking software using J2EE (Java, JSP, HTML), SQL and MS Access.
-
+---
 </details>
