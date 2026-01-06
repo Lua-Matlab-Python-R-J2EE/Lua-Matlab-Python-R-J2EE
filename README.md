@@ -91,8 +91,7 @@
 
 ### 💼 WORK EXPERIENCE
 
-#### Independent Researcher
-**Mar 2025–Present**
+#### Independent Researcher (Mar 2025–Present)
 - Published scientific papers based on previous work in Radiation Oncology done at Manchester.
 - Primary caregiver for one-year-old while spouse returned to full-time work.
 - Completed Python-based data analysis projects involving data cleaning, missing value imputation, statistical analysis, exploratory data analysis (EDA), insightful interpretation and machine learning (ML).
@@ -102,57 +101,48 @@
   - SQL work spanning querying, filtering, aggregation, and joins, supported by a practical movies-schema reference.
   - Health insurance premiums prediction demonstrating end-to-end ML lifecycle from data preprocessing to cloud deployment based on 50k records.
 
-#### Research Associate in Advanced Radiotherapy
-**Mar 2022–Feb 2025 | University of Manchester**
+#### Research Associate in Advanced Radiotherapy (Mar 2022–Feb 2025 | University of Manchester)
 - Cleaned and integrated radiotherapy dose, toxicity, and CT data from 1808 patients across multiple sources, handling missing values, outliers, and standardizing data formats for big data analysis, then developed predictive models for late toxicity outcomes in prostate cancer patients.
 - Designed/led 3 research projects (assessed baseline toxicity correction effects; investigated parameter influence on bladder subregion detection; inter-centre reproducibility comparison) performing EDA, feature engineering, applying geometric mapping, propensity score matching, hypothesis testing, and permutation testing.
 - Conducted statistical analysis and created 2D/3D visualizations to present findings at 5 international conferences, supervised 2 student researchers, and initiated 3 independent data-driven studies.
 
-#### Director
-**Aug 2018–Feb 2022 | TutorBuzz Ltd**
+#### Director (Aug 2018–Feb 2022 | TutorBuzz Ltd)
 - Founded and managed a web-based company, ensuring GDPR compliance and overseeing the web development lifecycle from idea to delivery using Jira's Kanban agile methodology.
 - Managed team of developers/writers, making technical decisions on website development (Java vs Laravel), version control (GitHub vs Bitbucket), hosting (Amazon vs Digital Ocean), and payment integration (Stripe vs WePay).
 - Cleaned, analyzed, and visualized clinical imaging data through EDA and statistical modeling, wrote and published 8 scientific papers, and peer-reviewed manuscripts.
 - Edited academic manuscripts, grant proposals, CVs, and cover letters across disciplines. Designed/delivered undergraduate/postgraduate modules in Applied Research and Statistics, Calculus, Matrices and Vectors, and Probability and Stochastic Processes. Provided one-on-one and group tutoring in Maths focusing on concepts.
 
-#### Honorary Visiting Research Fellow
-**Jul 2017–Mar 2018 | Guy's and St Thomas' Hospital**
+#### Honorary Visiting Research Fellow (Jul 2017–Mar 2018 | Guy's and St Thomas' Hospital)
 - Drafted research proposal and obtained 1,500 datasets from the National Survey of Health and Development.
 - Cleaned data by identifying and removing missing values and extreme outliers, performed EDA to understand distributions and relationships, then conducted statistical modeling and method comparison in R on aggregated and subgroup datasets.
 - Visually and statistically evaluated 10 mathematical models, assessing data normality (Shapiro–Wilk) and measurement-prediction agreement using Bland–Altman analysis (slope, bias, 95% limits of agreement, confidence interval) and Pearson correlation scatter plots.
 
-#### PET Physicist
-**Sep 2014–Jul 2017 | University of Oxford**
+#### PET Physicist (Sep 2014–Jul 2017 | University of Oxford)
 - Performed data cleaning and EDA on longitudinal/time-series datasets, identifying patterns and outliers before conducting advanced statistical and mathematical modeling, summarizing data distributions using medians and interquartile ranges (IQR) for baseline and follow-up measurements.
 - Applied Akaike Information Criterion (AIC) for model comparison, Shapiro–Wilk tests for normality assessment, and evaluated percentage changes over time with statistical visualizations.
 - Conducted subgroup analysis through data segmentation and comparative statistics, identifying parameter changes associated with outcome categories.
 - Improved standard operating procedures for acquiring dynamic PET data in clinical trials and gained Good Clinical Practice (GCP) certifications.
 
-#### Research Associate in MRI
-**Dec 2013–Sep 2014 | Newcastle University**
+#### Research Associate in MRI (Dec 2013–Sep 2014 | Newcastle University)
 - Developed a MATLAB-based toolkit for dynamic contrast-enhanced MRI (DCE-MRI) data analysis from human subjects, including data cleaning workflows, EDA, image segmentation, and mathematical modeling for time-series processing and signal conversion.
 - Created scripts to clean, preprocess, and analyze time-series curves with statistical summaries and visualizations, enabling robust quantitative analysis.
 - Created user manual for non-experts and assembled a team to present a business idea at a biotech competitions.
 
-#### Research Associate in PET Oncology Studies
-**Aug 2011–Nov 2013 | King’s College London**
+#### Research Associate in PET Oncology Studies (Aug 2011–Nov 2013 | King’s College London)
 - Performed data quality assessment and cleaning on 3-hr dynamic PET data in lymphoma patients, segmented tumor regions based on radiologists' reports, conducted EDA to identify patterns, and anonymized data for blinded clinician quality assessment.
 - Developed methods that shortened acquisition protocols from 60 min to 4 and 12 min to estimate bone metabolic flux and blood perfusion, and a methodology to spatially align histology and PET images with millimetre accuracy.
 - Completed a commercialization and IP course, developed a business plan, and pitched it at multiple competitions.
 
-#### Honorary Business Consultant
-**Nov 2006–Nov 2014 | New Horizon Systems**
+#### Honorary Business Consultant (Nov 2006–Nov 2014 | New Horizon Systems)
 - Assessed the company’s affordability to buy a commercial property.
 - Identified the most profitable channel of sale and recommended the development of a user-friendly website.
 - Analysed workload versus resources and recommended recruitment of an administrative apprentice.
 
-#### Software Engineer
-**Jan 2005–May 2006 | Siemens Information Systems Ltd**
+#### Software Engineer (Jan 2005–May 2006 | Siemens Information Systems Ltd)
 - Developed front/back-end modules for proof-of-concept projects using J2EE/Oracle/XML.
 - Analyzed bug patterns and system logs to identify root causes, fixed bugs for international clients, and developed/implemented test cases using automated tools.
 
-#### Software Trainee
-**Jan 2004–Jun 2004 | Perot Systems**
+#### Software Trainee (Jan 2004–Jun 2004 | Perot Systems)
 - Developed a bug tracking software using J2EE (Java, JSP, HTML), SQL and MS Access.
 ---
 </details>
