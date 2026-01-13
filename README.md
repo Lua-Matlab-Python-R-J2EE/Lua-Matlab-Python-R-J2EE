@@ -1,6 +1,6 @@
 ## 💼 SKILLS
 
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, MLflow, Matplotlib, SciPy, FastAPI, Streamlit), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, XGBoost, MLflow, Matplotlib, SciPy, FastAPI, Streamlit), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
 
 - **Tools:** Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
 
