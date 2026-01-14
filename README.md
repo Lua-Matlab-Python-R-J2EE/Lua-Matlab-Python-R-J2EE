@@ -65,7 +65,7 @@
 ##### Cloud & DevOps (Working Understanding: AWS Bedrock, SageMaker, Docker)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
+  <img src="https://logo.svgcdn.com/devicon/amazonwebservices-original.svg" width="42" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
 </p>
 
