@@ -1,7 +1,7 @@
 ## 💼 SKILLS
 
-### Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, MLflow, Matplotlib, SciPy, FastAPI, Streamlit), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
-<p align="center">
+#### Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, MLflow, Matplotlib, SciPy, FastAPI, Streamlit), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -25,15 +25,15 @@
 
 ---
 
-### Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
-<p align="center">
+#### Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="42"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/dbdiagram.io-000000?style=for-the-badge"/>
@@ -41,26 +41,26 @@
 
 ---
 
-### Databases: MySQL, SQL Workbench, MS Access, Oracle
-<p align="center">
+#### Databases: MySQL, SQL Workbench, MS Access, Oracle
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
 </p>
 
 ---
 
-### Cloud & DevOps (Working Understanding - AWS Bedrock and SageMaker, Docker)
-<p align="center">
+#### Cloud & DevOps (Working Understanding - AWS Bedrock and SageMaker, Docker)
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
