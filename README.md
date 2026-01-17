@@ -31,15 +31,15 @@
 ## 🏆 Completed projects
 
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
-  - *Deployed App:* [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
-  - *App Code:* [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
-  - *Tech:* Python | Scikit-learn | XGBoost | Streamlit
-  - *50K synthetic records* using dual-model strategy
-  - *Reduced prediction error by 90%+* through age-based segmentation
-  - *Production-ready* Streamlit app with CI/CD deployment
-  - *End-to-end ML pipeline* from EDA to model deployment
-  - *Feature engineering* using VIF analysis to eliminate multicollinearity
-> Version 2 in progress: It focuses on strengthening evaluation rigor, addressing potential sources of data leakage, and improving maintainability and reproducibility.
+  - Deployed App: [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
+  - App Code: [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+  - Tech: Python | Scikit-learn | XGBoost | Streamlit
+  - 50K synthetic records using a dual-model strategy
+  - Reduced prediction error by 90%+ through age-based segmentation
+  - Production-ready Streamlit app with CI/CD deployment
+  - End-to-end ML pipeline from EDA to model deployment
+  - Feature engineering using Variance Inflation Factor (VIF) analysis to address multicollinearity
+  - Version 2 in progress: improved evaluation rigor, stricter validation boundaries, expanded testing, and enhanced maintainability
  
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
