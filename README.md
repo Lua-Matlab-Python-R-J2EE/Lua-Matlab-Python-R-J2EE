@@ -26,8 +26,18 @@
 
 ## 🏆 Completed projects
 
-- [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)  
-  A machine‑learning (ML) powered Streamlit web application that predicts annual health insurance premiums based on demographic, lifestyle, and medical risk factors solving a regression problem (using 50,000 records). The project demonstrates a complete ML lifecycle, from data cleaning, feature engineering and model training to production‑grade deployment using Streamlit Cloud.
+- [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+- - [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+- - [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
+- - **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
+- - **App Code:** (https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+- - **Tech:** Python | Scikit-learn | XGBoost | Streamlit
+- - **99.98% accuracy** on 50K synthetic records using dual-model strategy
+- - **Reduced prediction error by 90%+** through age-based segmentation
+- - **Production-ready** Streamlit app with CI/CD deployment
+- - **End-to-end ML pipeline** from EDA to model deployment
+- - **Feature engineering** using VIF analysis to eliminate multicollinearity
+ 
 
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
