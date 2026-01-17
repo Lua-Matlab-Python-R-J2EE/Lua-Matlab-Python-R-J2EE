@@ -1,14 +1,14 @@
 ## 💼 SKILLS
 
-##### Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, Seaborn, Statsmodels, MLflow, Matplotlib, SciPy, FastAPI, Streamlit, PIL, OpenCV), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
+- Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, Seaborn, Statsmodels, MLflow, Matplotlib, SciPy, FastAPI, Streamlit, PIL, OpenCV), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
 
-##### Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
+- Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
 
-##### Databases: MySQL, SQL Workbench, MS Access, Oracle
+- Databases: MySQL, SQL Workbench, MS Access, Oracle
 
-##### Cloud & DevOps (Working Understanding: AWS Bedrock, SageMaker, Docker)
+- Cloud & DevOps (Working Understanding: AWS Bedrock, SageMaker, Docker)
 
-##### Formats: CSV, XLSX, DICOM, NIfTI (NII), JPEG, PNG
+- Formats: CSV, XLSX, DICOM, NIfTI (NII), JPEG, PNG
 
 ---
 
@@ -36,6 +36,9 @@
   General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
   
 ---
+
+<details>
+  <summary>COMPLETED GITHUB SKILLS</summary>
 
 ## 🏆 COMPLETED GITHUB SKILLS
 
@@ -74,6 +77,8 @@
 
 - [Connect the Dots](https://github.com/Lua-Matlab-Python-R-J2EE/skills-connect-the-dots)  
   Developed skills in linking issues, pull requests, and commits to streamline project management and maintain clear development history.
+  
+</details>
 
 - [Code with Codespaces](https://github.com/Lua-Matlab-Python-R-J2EE/skills-code-with-codespaces)  
   Learned to set up and use GitHub Codespaces for cloud-based development, enabling instant coding environments in the browser.
