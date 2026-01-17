@@ -27,14 +27,14 @@
 ## 🏆 Completed projects
 
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
----- `Deployed App:` [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
----- `App Code:` (https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
----- `Tech:` Python | Scikit-learn | XGBoost | Streamlit
----- `99.98% accuracy` on 50K synthetic records using dual-model strategy
----- `Reduced prediction error by 90%+` through age-based segmentation
----- `Production-ready` Streamlit app with CI/CD deployment
----- `End-to-end ML pipeline` from EDA to model deployment
----- `Feature engineering` using VIF analysis to eliminate multicollinearity
+----* `Deployed App:` [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
+----* `App Code:` (https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+----* `Tech:` Python | Scikit-learn | XGBoost | Streamlit
+----* `99.98% accuracy` on 50K synthetic records using dual-model strategy
+----* `Reduced prediction error by 90%+` through age-based segmentation
+----* `Production-ready` Streamlit app with CI/CD deployment
+----* `End-to-end ML pipeline` from EDA to model deployment
+----* `Feature engineering` using VIF analysis to eliminate multicollinearity
  
 
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
