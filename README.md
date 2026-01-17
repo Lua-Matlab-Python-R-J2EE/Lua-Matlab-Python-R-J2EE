@@ -16,7 +16,7 @@
 
 ---
 
-## 💼 Skills
+## Skills
 
 - **Core:** Python (Pandas, Scikit-learn, XGBoost, MLflow), SQL, R
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏆 Completed projects
+## Completed projects
 
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
   - Deployed App: [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
@@ -64,7 +64,7 @@
 <details>
   <summary>Completed github skills</summary>
 
-## 🏆 Completed github skills
+## Completed github skills
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
   Learned the basics of GitHub Actions, including how to automate workflows directly from your repository using YAML configuration files.
