@@ -1,3 +1,9 @@
+## How to read this profile:
+
+- The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain exploratory analyses and learning exercises.
+
+---
+
 ## 💼 SKILLS
 
 **Core:** Python (Pandas, Scikit-learn, XGBoost, MLflow), SQL, R
