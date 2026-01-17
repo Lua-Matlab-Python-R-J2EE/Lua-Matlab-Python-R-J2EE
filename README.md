@@ -1,4 +1,4 @@
-## About Me:
+## About me:
 
 - Data Scientist with hands-on experience building end-to-end ML pipelines from EDA to production deployment. 
 - Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps best practices.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🏆 Completed Projects
+## 🏆 Completed projects
 
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)  
   A machine‑learning (ML) powered Streamlit web application that predicts annual health insurance premiums based on demographic, lifestyle, and medical risk factors solving a regression problem (using 50,000 records). The project demonstrates a complete ML lifecycle, from data cleaning, feature engineering and model training to production‑grade deployment using Streamlit Cloud.
@@ -50,9 +50,9 @@
 ---
 
 <details>
-  <summary>Completed GitHub Skills</summary>
+  <summary>Completed github skills</summary>
 
-## 🏆 Completed GitHub Skills
+## 🏆 Completed github kkills
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
   Learned the basics of GitHub Actions, including how to automate workflows directly from your repository using YAML configuration files.
