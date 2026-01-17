@@ -2,92 +2,13 @@
 
 ##### Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, Seaborn, Statsmodels, MLflow, Matplotlib, SciPy, FastAPI, Streamlit, PIL, OpenCV), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statsmodels-3E6F9E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pillow-PIL-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-cv2-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-</p>
-
----
-
 ##### Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="42"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/dbdiagram.io-000000?style=for-the-badge"/>
-</p>
-
----
 
 ##### Databases: MySQL, SQL Workbench, MS Access, Oracle
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
-</p>
-
----
-
 ##### Cloud & DevOps (Working Understanding: AWS Bedrock, SageMaker, Docker)
 
-<p align="left">
-  <img src="https://logo.svgcdn.com/devicon/amazonwebservices-original.svg" width="42" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
 ##### Formats: CSV, XLSX, DICOM, NIfTI (NII), JPEG, PNG
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CSV-Comma--Separated%20Values-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XLSX-Excel%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DICOM-Medical%20Imaging-0B5ED7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NIfTI-NII-6C757D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JPEG-Image-FFB000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PNG-Image-0099CC?style=for-the-badge"/>
-</p>
-
-
 
 ---
 
