@@ -1,8 +1,12 @@
 ## About me:
 
 - Data Scientist with hands-on experience building end-to-end machine learning (ML) pipelines from exploratory analyses (EDA) to production deployment. 
-- Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps best practices.
-- Currently seeking Junior Data Science / Applied ML Engineer roles in the UK.
+- Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps.
+
+--- 
+
+## What I'm looking for:
+- Junior DS/ML roles where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise in the UK.
 
 ---
 
@@ -39,12 +43,12 @@
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
 
-- [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
-  A comprehensive expense management application built with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
-
 - [EDA in Hospitality Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Hospitality-Domain)  
   Data analysis for an imaginary hotel chain to uncover insights and recommend strategies for growth.
 
+- [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
+  A comprehensive expense management full-stack data application built with API design with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
+  
 - [Movies Project in SQL](https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference)  
   A comprehensive SQL reference guide with practical examples covering fundamental to advanced SQL queries. All examples use a movies database schema for real-world learning.
 
@@ -59,7 +63,7 @@
 <details>
   <summary>Completed github skills</summary>
 
-## 🏆 Completed github kkills
+## 🏆 Completed github skills
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
   Learned the basics of GitHub Actions, including how to automate workflows directly from your repository using YAML configuration files.
