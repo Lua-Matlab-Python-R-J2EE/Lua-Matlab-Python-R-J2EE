@@ -78,12 +78,11 @@
 - [Connect the Dots](https://github.com/Lua-Matlab-Python-R-J2EE/skills-connect-the-dots)  
   Developed skills in linking issues, pull requests, and commits to streamline project management and maintain clear development history.
   
-</details>
-
 - [Code with Codespaces](https://github.com/Lua-Matlab-Python-R-J2EE/skills-code-with-codespaces)  
   Learned to set up and use GitHub Codespaces for cloud-based development, enabling instant coding environments in the browser.
 
 - [Introduction to Repository Management](https://github.com/Lua-Matlab-Python-R-J2EE/skills-introduction-to-repository-management)  
   Gained foundational knowledge in managing repository settings, access controls, and collaboration features for effective project organization.
 
+</details>
 
