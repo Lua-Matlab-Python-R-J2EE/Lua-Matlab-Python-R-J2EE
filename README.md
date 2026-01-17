@@ -1,14 +1,14 @@
 ## About me:
 
-- Data Scientist with hands-on experience building end-to-end ML pipelines from EDA to production deployment. 
+- Data Scientist with hands-on experience building end-to-end machine learning (ML) pipelines from exploratory analyses (EDA) to production deployment. 
 - Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps best practices.
-- Currently seeking Junior Data Science / ML Engineer roles in the UK.
+- Currently seeking Junior Data Science / Applied ML Engineer roles in the UK.
 
 ---
 
 ## How to read this profile:
 
-- The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain exploratory analyses (EDA) and learning exercises.
+- The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain EDA and learning exercises.
 
 ---
 
