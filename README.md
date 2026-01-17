@@ -34,11 +34,12 @@
   - *Deployed App:* [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
   - *App Code:* [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
   - *Tech:* Python | Scikit-learn | XGBoost | Streamlit
-  - *99.98% accuracy* on 50K synthetic records using dual-model strategy
+  - *50K synthetic records* using dual-model strategy
   - *Reduced prediction error by 90%+* through age-based segmentation
   - *Production-ready* Streamlit app with CI/CD deployment
   - *End-to-end ML pipeline* from EDA to model deployment
   - *Feature engineering* using VIF analysis to eliminate multicollinearity
+> Version 2 in progress: It focuses on strengthening evaluation rigor, addressing potential sources of data leakage, and improving maintainability and reproducibility.
  
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
