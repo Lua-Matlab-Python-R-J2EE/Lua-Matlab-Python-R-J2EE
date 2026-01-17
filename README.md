@@ -1,14 +1,9 @@
 ## 💼 SKILLS
 
-- Programming: Python (NumPy, Pandas, Scikit-learn, XGBoost, Seaborn, Statsmodels, MLflow, Matplotlib, SciPy, FastAPI, Streamlit, PIL, OpenCV), R, Lua, MATLAB, Java, JSP, HTML, XML, SQL
-
-- Tools: Excel, Jupyter Notebook, PyCharm, Google Colab, dbdiagram.io, Jira, GitHub
-
-- Databases: MySQL, SQL Workbench, MS Access, Oracle
-
-- Cloud & DevOps (Working Understanding: AWS Bedrock, SageMaker, Docker)
-
-- Formats: CSV, XLSX, DICOM, NIfTI (NII), JPEG, PNG
+**Core:** Python (Pandas, Scikit-learn, XGBoost, MLflow), SQL, R
+**ML/Visualization:** Seaborn, Matplotlib, Statsmodels
+**Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
+**Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
 
 ---
 
