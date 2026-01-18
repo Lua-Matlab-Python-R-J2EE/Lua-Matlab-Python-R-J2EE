@@ -1,12 +1,13 @@
 ## About me:
 
-- Data Scientist with hands-on experience building end-to-end machine learning (ML) pipelines from exploratory analyses (EDA) to production deployment. 
+- Data Scientist with hands-on experience building end-to-end machine learning (ML) pipelines from exploratory analyses (EDA) to production deployment.
+- Healthcare domain expert with 26 peer-reviewed publications (18 first-author), bringing deep expertise in healthcare analytics and medical data.
 - Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps.
 
 --- 
 
 ## What I'm looking for:
-- Junior DS/ML roles where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise in the UK.
+- Junior DS/ML roles where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise in the UK
 
 ---
 
