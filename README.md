@@ -19,11 +19,8 @@
 ## Skills
 
 - **Core:** Python (Pandas, Scikit-learn, XGBoost, MLflow), SQL, R
-
 - **ML/Visualization:** Seaborn, Matplotlib, Statsmodels
-
 - **Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
-
 - **Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
 
 ---
