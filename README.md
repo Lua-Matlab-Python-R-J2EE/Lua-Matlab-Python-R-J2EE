@@ -2,7 +2,7 @@
 
 - Data Scientist with hands-on experience building end-to-end machine learning (ML) pipelines from exploratory analyses (EDA) to production deployment.
 - Healthcare domain expert with 26 peer-reviewed publications (18 first-author), bringing deep expertise in healthcare analytics and medical data.
-- Passionate about solving real-world problems with healthcare analytics, financial modeling, and MLOps.
+- Passionate about solving real-world problems across healthcare, medical research, consulting and pharmaceuticals through data analytics, statistical modeling, and decision-driven insights.
 
 --- 
 
