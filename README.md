@@ -11,18 +11,18 @@
 
 ---
 
-## How to read this profile:
-
-- The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain EDA and learning exercises.
-
----
-
 ## Skills
 
 - **Core:** Python (Pandas, Scikit-learn, XGBoost, MLflow), SQL, R
 - **ML/Visualization:** Seaborn, Matplotlib, Statsmodels
 - **Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
 - **Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
+
+---
+
+## How to read this profile:
+
+- The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain EDA and learning exercises.
 
 ---
 
