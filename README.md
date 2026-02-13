@@ -59,6 +59,9 @@
 - [Movies Project in SQL](https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference)  
   A comprehensive SQL reference guide with practical examples covering fundamental to advanced SQL queries. All examples use a movies database schema for real-world learning.
 
+- [Gait Ananlysis](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis)  
+  ML analysis of gait biometrics across nine experimental pipelines, showcasing skills in data preprocessing, modeling, cross-validation, oversampling, clustering, and rigorous evaluation. Designed to highlight practical ML abilities, strong methodology, and clear reasoning in small-data, high-dimensional settings.
+
 - [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
   Comparison of ten predictive statistical models for estimating lean body mass against dual-energy X-ray absorptiometry (DXA) in older patients using correlation, Bland-Altman plots, and hypothesis testing.
 
