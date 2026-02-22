@@ -46,27 +46,27 @@
   - End-to-end ML pipeline from EDA to model deployment
   - Feature engineering using Variance Inflation Factor (VIF) analysis to address multicollinearity
   - Version 2 in progress: improved evaluation rigor, stricter validation boundaries, expanded testing, and enhanced maintainability
- 
+
+- [Gait Analysis in Python](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis)  
+  ML analysis of gait biometrics across nine experimental pipelines, showcasing skills in data preprocessing, modeling, cross-validation, oversampling, clustering, and rigorous evaluation. Designed to highlight practical ML abilities, strong methodology, and clear reasoning in small-data, high-dimensional settings.
+
+- [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
+  A comprehensive expense management full-stack data application built with API design with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
+  
 - [EDA in Banking Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Banking-Domain)  
   Data analysis for an imaginary bank (using 50,000 records) to design and launch a competitive credit card product that aligns with market demands and customer preferences while minimizing failure risk.
 
 - [EDA in Hospitality Domain in Python](https://github.com/Lua-Matlab-Python-R-J2EE/EDA-Hospitality-Domain)  
   Data analysis for an imaginary hotel chain to uncover insights and recommend strategies for growth.
-
-- [Expense Tracking System in Python](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)  
-  A comprehensive expense management full-stack data application built with API design with FastAPI backend and Streamlit frontend, featuring real-time analytics and MySQL database integration for efficient personal finance tracking.
-  
+ 
 - [Movies Project in SQL](https://github.com/Lua-Matlab-Python-R-J2EE/sql-basics-reference)  
   A comprehensive SQL reference guide with practical examples covering fundamental to advanced SQL queries. All examples use a movies database schema for real-world learning.
 
-- [Gait Analysis in Python](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis)  
-  ML analysis of gait biometrics across nine experimental pipelines, showcasing skills in data preprocessing, modeling, cross-validation, oversampling, clustering, and rigorous evaluation. Designed to highlight practical ML abilities, strong methodology, and clear reasoning in small-data, high-dimensional settings.
-
 - [Lean Body Mass Estimation in R](https://github.com/Lua-Matlab-Python-R-J2EE/LBM-R)  
-  Comparison of ten predictive statistical models for estimating lean body mass against dual-energy X-ray absorptiometry (DXA) in older patients using correlation, Bland-Altman plots, and hypothesis testing.
+  Statistical Analysis: Comparison of ten predictive statistical models for estimating lean body mass against dual-energy X-ray absorptiometry (DXA) in older patients using correlation, Bland-Altman plots, and hypothesis testing.
 
 - [DCE-MRI Tool in MATLAB](https://github.com/Lua-Matlab-Python-R-J2EE/dce-mri-matlab)  
-  General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
+  Scientific Computing: General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
   
 ---
 
