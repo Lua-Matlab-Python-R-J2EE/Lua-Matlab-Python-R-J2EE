@@ -7,7 +7,7 @@
 --- 
 
 ## What I'm looking for:
-- Junior DS/ML roles where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise in the UK
+- Junior DS/ML roles in the UK where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise,  particularly in healthcare, life sciences, finance or any domain where rigorous data methodology matters.
 
 ---
 
