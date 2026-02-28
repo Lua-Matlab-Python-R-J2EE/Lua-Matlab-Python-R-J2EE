@@ -1,13 +1,13 @@
 ## About me:
 
-- Data Scientist and ML practitioner with a background in scientific computing and biomedical research, and 26 peer-reviewed publications (18 first-author) spanning healthcare, clinical imaging, pharmaceuticals, and medical data analysis.
-- I build end-to-end machine learning pipelines (from exploratory analysis to production deployment) bridging rigorous scientific methodology (cross-validation, Bland-Altman analysis, small-sample inference) with practical ML engineering (Streamlit apps, CI/CD, REST APIs, FastAPI).
+- Data Scientist (DS), Machine Learning (ML) and Artificial Intelligence (AI) practitioner with a background in scientific computing and biomedical research, and 26 peer-reviewed publications (18 first-author) spanning healthcare, clinical imaging, pharmaceuticals, and medical data analysis.
+- I build end-to-end AI/ML pipelines (from exploratory analysis to production deployment) bridging rigorous scientific methodology (cross-validation, Bland-Altman analysis, small-sample inference) with practical ML/AI engineering (Streamlit apps, CI/CD, REST APIs, FastAPI).
 - My project experience spans clinical imaging, biometrics, healthcare analytics, banking, and finance. Currently expanding into neural networks and deep learning with a focus on applied computer vision.
 
 --- 
 
 ## What I'm looking for:
-- Junior DS/ML roles in the UK where I can apply statistical modeling, build production ML systems, and grow my MLOps expertise,  particularly in healthcare, life sciences, finance or any domain where rigorous data methodology matters.
+- DS/ML/AI roles in the UK where I can apply statistical modeling, build production ML/AI systems, and grow my MLOps expertise,  particularly in healthcare, life sciences, finance or any domain where rigorous data methodology matters.
 
 ---
 
