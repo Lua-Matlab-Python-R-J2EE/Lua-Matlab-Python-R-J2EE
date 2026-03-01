@@ -26,7 +26,7 @@
 
 ---
 
-## Technical blog posts 
+## Selected technical posts 
 - https://www.linkedin.com/posts/activity-7402053339540193283-wgZp
 - https://www.linkedin.com/posts/activity-7393415445820633088-fMu7
 - https://www.linkedin.com/posts/activity-7392617954150080512-vqHj
