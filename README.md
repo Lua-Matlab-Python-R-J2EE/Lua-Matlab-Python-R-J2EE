@@ -7,7 +7,7 @@
 --- 
 
 ## What I'm looking for:
-- DS/ML/AI roles in the UK where I can apply statistical modeling, build production ML/AI systems, and grow my MLOps expertise,  particularly in healthcare, life sciences, finance or any domain where rigorous data methodology matters.
+- DS/ML/AI roles in the UK where I can apply statistical modeling, build production ML/AI systems, and grow my MLOps expertise,  particularly in finance, consulting, healthcare, life sciences or any domain where rigorous data methodology matters.
 
 ---
 
