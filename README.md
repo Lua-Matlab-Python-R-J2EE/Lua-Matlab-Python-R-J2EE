@@ -19,7 +19,7 @@
 ## Featured Projects (Production-Ready)
 
 ### Health Insurance Premium Prediction
- **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
+- **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
 - **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
 - **Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit, GitHub Actions.
 - **Impact:** Built a dual-model strategy for 50k records; reduced prediction error by >90%. 
