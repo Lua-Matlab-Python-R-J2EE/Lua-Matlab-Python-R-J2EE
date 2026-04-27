@@ -16,6 +16,26 @@
 
 ---
 
+## Featured Projects (Production-Ready)
+
+### Health Insurance Premium Prediction
+ **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
+- **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+- **Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit, GitHub Actions.
+- **Impact:** Built a dual-model strategy for 50k records; reduced prediction error by >90%. 
+- **Engineering:** Full CI/CD pipeline with automated deployment.
+
+### [Gait Analysis & Biometrics]([URL](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis))
+- **Tech:** Python, PyTorch, Scikit-learn.
+- **Impact:** Benchmarked 9 experimental pipelines for small-sample biometric data with rigorous validation.
+
+### [Full-Stack Expense Tracker]([URL](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System))
+- **Tech:** FastAPI, MySQL, Streamlit.
+- **Impact:** Developed a complete data application for real-time financial tracking and CRUD operations.
+
+
+---
+
 ## How to read this profile:
 
 - The pinned projects demonstrate practical data science work, including real-world datasets, model development, and deployment. Additional repositories contain EDA and learning exercises.
