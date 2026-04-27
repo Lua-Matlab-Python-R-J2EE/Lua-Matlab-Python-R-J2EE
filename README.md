@@ -1,22 +1,18 @@
 ## About me:
 
-- Data Scientist (DS), Machine Learning (ML) and Artificial Intelligence (AI) practitioner with a background in scientific computing and biomedical research, and 26 peer-reviewed publications (18 first-author) spanning healthcare, clinical imaging, pharmaceuticals, and medical data analysis.
-- I build end-to-end AI/ML pipelines (from exploratory analysis to production deployment) bridging rigorous scientific methodology (cross-validation, Bland-Altman analysis, small-sample inference) with practical ML/AI engineering (Streamlit apps, CI/CD, FastAPI).
-- My project experience spans clinical imaging, biometrics, healthcare analytics, banking, and finance. Currently expanding into neural networks and deep learning with a focus on applied computer vision.
-
---- 
-
-## What I'm looking for:
-- DS/ML/AI roles in the UK where I can apply statistical modeling, build production ML/AI systems, and grow my MLOps expertise,  particularly in finance, consulting, healthcare, life sciences or any domain where rigorous data methodology matters.
+- Quantitative Scientist & ML Engineer with a foundation in enterprise software engineering (Siemens) and over a decade of high-impact research at Oxford, KCL, and Manchester.
+- Academic Authority: Author of 26 peer-reviewed publications (18 first-author) with an h-index of 13, specialising in medical imaging, pharmaceuticals, and clinical data analysis.
+- End-to-End Engineering: I build production-ready AI/ML pipelines bridging rigorous scientific methodology with modern MLOps (FastAPI, CI/CD, SQL, Streamlit) and cloud-native tools (Basic AWS: SageMaker).
+- Versatile Expertise: Project experience spanning clinical imaging, biometrics, banking, and finance. Currently focused on deep learning and applied computer vision.
 
 ---
 
-## Skills
+## Core Tech Stack:
 
-- **Core:** Python (PyTorch, Scikit-learn, XGBoost, MLflow, Optuna, Pandas, NumPy, Pytest), SQL, R
-- **ML/Visualization:** Seaborn, Matplotlib, Statsmodels
-- **Deployment:** Streamlit, FastAPI, Docker, AWS (Bedrock, SageMaker)
-- **Data:** MySQL, CSV, Medical Imaging (DICOM, NIfTI)
+- **Core Languages & Testing:** Python (Pandas, NumPy, Seaborn, Matplotlib, Pytest), SQL (MySQL), R, MATLAB, Java (J2EE).
+- **Machine Learning & Stats:** Scikit-learn, XGBoost, PyTorch, Statsmodels, MLflow (Experiment Tracking), Optuna (Tuning).
+- **MLOps, Cloud & Deployment:** FastAPI, Streamlit, Docker, CI/CD (GitHub Actions), AWS (Foundational: Bedrock, SageMaker).
+- **Scientific Data & Viz:** Medical Imaging (DICOM, NIfTI), 4D/Longitudinal Pipelines, Seaborn, Matplotlib.
 
 ---
 
