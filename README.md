@@ -42,7 +42,7 @@
 
 ---
 
-## Selected technical posts 
+## Selected Technical Posts 
 - https://www.linkedin.com/posts/activity-7402053339540193283-wgZp
 - https://www.linkedin.com/posts/activity-7393415445820633088-fMu7
 - https://www.linkedin.com/posts/activity-7392617954150080512-vqHj
@@ -50,7 +50,7 @@
 
 ---
 
-## Completed projects
+## All Completed Projects
 
 - [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
   - Deployed App: [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
