@@ -67,9 +67,9 @@
 ---
 
 <details>
-  <summary>Continuous Professional Development</summary>
+  <summary>Click to view 20+ completed GitHub Engineering Modules</summary>
 
-## Click to view 20+ completed GitHub Engineering Modules
+## Continuous Professional Development
 
 - [Hello GitHub Actions](https://github.com/Lua-Matlab-Python-R-J2EE/skills-hello-github-actions)  
   Learned the basics of GitHub Actions, including how to automate workflows directly from your repository using YAML configuration files.
