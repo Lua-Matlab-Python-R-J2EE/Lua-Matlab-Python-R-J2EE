@@ -88,7 +88,7 @@
   Scientific Computing: General utility functions written in MATLAB/Octave as part of a software toolkit for analyzing 4-dimensional (4D) dynamic contrast-enhanced magnetic resonance imaging (dce-mri) data.
 
 </details>
----
+
 
 <details>
   <summary>Click to view 20+ completed GitHub Engineering Modules</summary>
