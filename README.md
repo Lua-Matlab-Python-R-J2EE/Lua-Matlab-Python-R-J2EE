@@ -66,7 +66,7 @@
   - Feature engineering using Variance Inflation Factor (VIF) analysis to address multicollinearity
   - Version 2 in progress: improved evaluation rigor, stricter validation boundaries, expanded testing, and enhanced maintainability
 
-- [Ombudsman Complaints Forecasting in Python]([https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis](https://github.com/Lua-Matlab-Python-R-J2EE/ombudsman-complaints-forecast))  
+- [Ombudsman Complaints Forecasting in Python](https://github.com/Lua-Matlab-Python-R-J2EE/ombudsman-complaints-forecast)  
   Time-series forecasting pipeline using XGBoost and Meta Prophet to predict daily complaint volumes for operational capacity planning and resource triage. Showcases skills in rigorous temporal splitting, data cleaning, feature engineering, and evaluating model constraints in noisy, low-volume operational environments.
 
 - [Gait Analysis in Python](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis)  
