@@ -62,7 +62,18 @@ Car Damage Classifier
   
 ## Technical Portfolio & Open-Source Projects
 
-- [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction) [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-FF4B4B.svg)](https://streamlit.io)
+- [Car Damage Detection Pipeline](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
+  - Deployed App: [https://car-damage-classifier-v1.streamlit.app/](https://car-damage-classifier-v1.streamlit.app/)
+  - App Code: [https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
+  - Tech: Python | PyTorch | Torchvision | FastAPI | Streamlit 
+  - 2,300 RGB images sourced from Hugging Face using a three-quarter view layout strategy
+  - Achieved 75.69% accuracy using a MobileNetV3-Small transfer learning architecture
+  - Production-ready deployment via a multi-tier decoupled microservice setup
+  - End-to-end CV pipeline featuring independent augmentation, background batch training, and evaluation runs
+  - Pre-trained feature extraction utilized to mitigate overfitting under strict CPU hardware constraints
+  - Version 2 in progress: integration of YOLO frameworks for pixel-level object detection and deep feature layer fine-tuning
+
+- [Health Insurance Premium Prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
   - Deployed App: [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
   - App Code: [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
   - Tech: Python | Scikit-learn | XGBoost | Streamlit
