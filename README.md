@@ -18,6 +18,13 @@
 
 ## Featured Projects (Production-Ready)
 
+Car Damage Classifier
+- **Deployed App:** https://car-damage-classifier-v1.streamlit.app/
+- **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
+- **Tech:** Python, PyTorch, Torchvision, MobileNetV3, FastAPI, Streamlit.
+- **Impact:** Evaluated multiple architectures on 2,300 images; hit 75.69% accuracy via pre-trained feature extractors.
+- **Engineering:** Decoupled microservice architecture separating the model core, API server, and interactive frontend.
+
 ### Health Insurance Premium Prediction
 - **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
 - **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
