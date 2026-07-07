@@ -18,7 +18,7 @@
 
 ## Featured Projects (Production-Ready)
 
-Car Damage Classifier
+### Car Damage Classifier
 - **Deployed App:** https://car-damage-classifier-v1.streamlit.app/
 - **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
 - **Tech:** Python, PyTorch, Torchvision, MobileNetV3, FastAPI, Streamlit.
