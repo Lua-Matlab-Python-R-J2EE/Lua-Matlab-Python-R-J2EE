@@ -19,27 +19,36 @@
 ## Featured Projects (Production-Ready)
 
 ### Car Damage Classifier
-- **Deployed App:** https://car-damage-classifier-v1.streamlit.app/
-- **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
+- **Deployed App:** [Live Streamlit Dashboard](https://car-damage-classifier-v1.streamlit.app/)
+- **App Code:** [GitHub Repository](https://github.com/Lua-Matlab-Python-R-J2EE/car-damage-classifier)
 - **Tech:** Python, PyTorch, Torchvision, MobileNetV3, FastAPI, Streamlit.
 - **Impact:** Evaluated multiple architectures on 2,300 images; hit 75.69% accuracy via pre-trained feature extractors.
 - **Engineering:** Decoupled microservice architecture separating the model core, API server, and interactive frontend.
 
 ### Health Insurance Premium Prediction
-- **Deployed App:** [https://ml-based-premium-prediction-v1.streamlit.app/](https://ml-based-premium-prediction-v1.streamlit.app/)
-- **App Code:** [https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
+- **Deployed App:** [Live Streamlit Dashboard](https://ml-based-premium-prediction-v1.streamlit.app/)
+- **App Code:** [GitHub Repository](https://github.com/Lua-Matlab-Python-R-J2EE/ml-based-premium-prediction)
 - **Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit, GitHub Actions.
-- **Impact:** Built a dual-model strategy for 50k records; reduced prediction error by >90%. 
+- **Impact:** Built a dual-model strategy for 50k records; reduced prediction error by >90%.
 - **Engineering:** Full CI/CD pipeline with automated deployment.
 
-### [Gait Analysis & Biometrics]([URL](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis))
-- **Tech:** Python, PyTorch, Scikit-learn.
-- **Impact:** Benchmarked 9 experimental pipelines for small-sample biometric data with rigorous validation.
+---
 
-### [Full-Stack Expense Tracker]([URL](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System))
-- **Tech:** FastAPI, MySQL, Streamlit.
-- **Impact:** Developed a complete data application for real-time financial tracking and CRUD operations.
+## Technical Case Studies & Core R&D
 
+*Note: These repositories focus on modeling rigor, data leakage analysis, and multi-tier backend software engineering.*
+
+### Gait Biometric Classification: ML Methodology Study
+- **App Code:** [GitHub Repository](https://github.com/Lua-Matlab-Python-R-J2EE/gait_analysis)
+- **Tech:** Python, PyTorch, Scikit-learn, SMOTE, DBSCAN.
+- **Impact:** Benchmarked 9 experimental pipelines and 3 feature variants to isolate data leakage artifacts in small-sample (48 records) biometric tracking.
+- **Methodology:** Validated in-pipeline oversampling using StratifiedKFold (2-fold) to achieve a valid 90% accuracy baseline.
+
+### Full-Stack Expense Tracker & Data Application
+- **App Code:** [GitHub Repository](https://github.com/Lua-Matlab-Python-R-J2EE/Expense-Tracking-System)
+- **Tech:** Python, FastAPI, MySQL, Streamlit, Postman.
+- **Impact:** Developed a complete three-tier data application supporting full CRUD operations, live categorical tracking, and structured relational persistence.
+- **Engineering:** Followed a strict vertical feature slices approach with dedicated REST API testing and relational schema logging.
 
 ---
 
